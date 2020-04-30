@@ -16,4 +16,4 @@ Course:|Code:
 Discrete Maths| Engg 2430
 
 ## Screenshot
-![1](https://github.com/csci3251-2020/student-1155126813/blob/master/Screenshot from 2020-04-30 21-41-35.png)
+![1](https://github.com/csci3251-2020/student-1155126813/blog/master/Screenshot from 2020-04-30 21-41-35.png)
