@@ -1,4 +1,4 @@
-# CSCI 3251 PROJCET MILESTONE 2
+# CSCI 3251 MILESTONE 2
 ## About me 
 Hello there! My Name is Tsang Tsz Kin Brian, Year 2 CS student
 
